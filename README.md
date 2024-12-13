@@ -1,1 +1,1 @@
-# Beispiel-looker-studio-custom-visualization
+# looker-studio-custom-visualization
