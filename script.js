@@ -6,6 +6,7 @@ function drawViz(data) {
 
   const rows = data.tables.DEFAULT;
 
+  // Erstelle eine Tabelle
   const table = document.createElement('table');
   rows.forEach(row => {
     const tr = document.createElement('tr');
