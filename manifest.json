@@ -1,0 +1,11 @@
+{
+  "data": {
+    "type": "table"
+  },
+  "style": {
+    "default": "styles.json"
+  },
+  "scripts": [
+    "https://MahatmaAndi-01.github.io/looker-studio-custom-visualization/script.js"
+  ]
+}
