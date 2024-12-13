@@ -1,11 +1,8 @@
 {
   "data": {
-    "type": "table"
-  },
-  "style": {
-    "default": "styles.json"
+    "type": "table"   // Art der Daten: "table", "chart", etc.
   },
   "scripts": [
-    "https://MahatmaAndi-01.github.io/looker-studio-custom-visualization/script.js"
+    "https://MahatmaAndi-01.github.io/looker-studio-custom-visualization/script.js" // Link zur JavaScript-Datei
   ]
 }
