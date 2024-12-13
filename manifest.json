@@ -1,8 +1,8 @@
 {
   "data": {
-    "type": "table"   // Art der Daten: "table", "chart", etc.
+    "type": "table"
   },
   "scripts": [
-    "https://MahatmaAndi-01.github.io/looker-studio-custom-visualization/script.js" // Link zur JavaScript-Datei
+    "https://MahatmaAndi-01.github.io/looker-studio-custom-visualization/script.js"
   ]
 }
